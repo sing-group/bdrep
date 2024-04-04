@@ -91,3 +91,9 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
+
+## Citing
+
+Please, cite the following publication if you use STRep:
+
+I. Vázquez; M. Novo-Lourés; R. Pavón; R. Laza; J. R. Méndez; D. Ruano-Ordás (2023) Improvements for Research Data Repositories: the case of text spam. Journal of Information Science. Volume 49, Issue 2, pp. 285–301. ISSN: (Online) 1741-6485 - (Print) 0165-5515. DOI: [https://doi.org/10.1177/0165551521998636](https://doi.org/10.1177/0165551521998636)
